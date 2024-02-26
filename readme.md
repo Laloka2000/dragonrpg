@@ -1,0 +1,1 @@
+This project contains three files an html, css, and javascript files. 
